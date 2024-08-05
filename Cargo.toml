@@ -1,0 +1,9 @@
+[package]
+name = "egui-video-threads-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27.2"
+egui = "0.27.2"
+triple_buffer = "7.0.0"
